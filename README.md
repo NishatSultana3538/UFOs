@@ -28,6 +28,8 @@ Using different filter criteria we can get data depending on which filter option
 Here is UFO sightings data for 1/12/2010 and only in California state:
 ![CA-1/12/2010](https://github.com/NishatSultana3538/UFOs/blob/main/static/images/CA_1:10:2010.png)
 
+Here is UFO sightings data for California state and triangle shape:
+
 ![CA_triangle](https://github.com/NishatSultana3538/UFOs/blob/main/static/images/CA-triangle.png)
 
 Here is UFO sightings data for 1/12/2010 and only in California state and with fireball shape:
