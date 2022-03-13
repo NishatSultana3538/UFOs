@@ -12,6 +12,9 @@ Using two javascript file [app.js]() , [data.js]() and html file [index.html]() 
 Below is how the website looks like
 
 ![UFO_website](https://github.com/NishatSultana3538/UFOs/blob/main/static/images/UFO_website.png)
+
+On ipad air
+
 ![ipad_air](https://github.com/NishatSultana3538/UFOs/blob/main/static/images/ipad%20air.png)
 
 
