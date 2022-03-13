@@ -5,7 +5,12 @@
 
 
 ## Results: 
-### 
+
+### Resources:
+
+Software: HTML/CSS, JavaScript, Visual Studio Code 1.49.1, BootStrap 4.0.0
+
+### UFO Website :
 
 Using two javascript file [app.js](https://github.com/NishatSultana3538/UFOs/blob/main/static/js/app.js) , [data.js](https://github.com/NishatSultana3538/UFOs/blob/main/static/js/data.js), one css file [style.css](https://github.com/NishatSultana3538/UFOs/blob/main/static/css/style.css) and html file [index.html](https://github.com/NishatSultana3538/UFOs/blob/main/index.html) I made the website to filter data for UFO sightings in different cities , shapes and time. The website link deployed in github is 
 
@@ -42,8 +47,15 @@ Here is UFO sightings data for 1/12/2010 and only in California state and with f
 ## Summary:
 
 ### Drawback of this webpage 
+* One drawback of the webpage is that user don't know what parameter to use to filter the data. They have to look at the data to use a filter option. 
+
+* Another drawback is that search area has some data already shown which seems confusing and also the sear ch data need to be cleared to re-input again.
  
 ### Two additional recommendations
+
+* Using a dropdown menu in the search option will be easier to choose from.
+
+* The search field need to be cleared after one search has done.
 
 
 
