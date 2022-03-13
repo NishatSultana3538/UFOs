@@ -33,23 +33,9 @@ Here is UFO sightings data for 1/12/2010 and only in California state:
 Here is UFO sightings data for 1/12/2010 and only in California state and with fireball shape:
 ![CA-1/12/2010_fireball](https://github.com/NishatSultana3538/UFOs/blob/main/static/images/CA_1:12:2010-US-fireball.png)
 
-when I print the list of dictionary items I got the following url
-
-![hemisphere_image_url]()
 
 
 
-Using the [Mission_to_Mars_Challenge.ipynb](), [app.py](h), [sraping.py](https://github.com/NishatSultana3538/Mission-to-Mars/blob/main/scraping.py) and [index.html](https://github.com/NishatSultana3538/Mission-to-Mars/blob/main/templates/index.html)  I got the following webpage that has the full-resolution images and the titles of the four hemisphere images as below image:
-
-![hemisphere_image]()
-
-After updating the html file I got following image:
-
-![webpage_image]()
-
-I change html file to make the website is mobile-responsive. I use the DevTools to test the responsiveness of my website and got the following image:
-
-![mobile_responsive](g)
 
 ## Summary:
 
