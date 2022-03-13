@@ -28,6 +28,12 @@ I change html file to make the website is mobile-responsive. I use the DevTools 
 
 ![mobile_responsive](g)
 
+## Summary:
+
+### Drawback of this webpage 
+ 
+### Two additional recommendations
+
 
 
 
