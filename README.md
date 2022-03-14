@@ -1,7 +1,11 @@
 # UFOs
 
 
-## Overview of the UFO sighting: 
+## Overview of the UFO sighting: Filter UFO sightings on multiple criteria
+
+Here I build a table using data stored in a JavaScript array. I have also create filters to make this table fully dynamic, meaning that it will react to user input, and then placed the table into an HTML file for easy viewing.
+
+I have customized my webpage using Bootstrap, adding specific CSS components to the stylesheet such as applying a background color to the page , adding an image to the jumbotron and equipped my table with several fully functional filters that will allow users to interact with our visualizations. 
 
 
 ## Results: 
@@ -54,7 +58,7 @@ Here is UFO sightings data for 1/12/2010 and only in California state and with f
 ### Drawback of this webpage 
 * One drawback of the webpage is that user don't know what parameter to use to filter the data. They have to look at the data to use a filter option. 
 
-* Another drawback is that search area has some data already shown which seems confusing and also the sear ch data need to be cleared to re-input again.
+* Another drawback is that search area has some data already shown which seems confusing and also the search data need to be cleared to re-input again.
  
 ### Two additional recommendations
 
