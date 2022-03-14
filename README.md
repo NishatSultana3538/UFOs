@@ -8,9 +8,11 @@
 
 ### Resources:
 
-Software: HTML/CSS, JavaScript, Visual Studio Code 1.49.1, BootStrap 4.0.0
+Software: HTML/CSS, JavaScript, BootStrap 4.0.0
 
-### UFO Website :
+### UFO Website : 
+The website link deployed in github is https://nishatsultana3538.github.io/UFOs/
+
 
 Using two javascript file [app.js](https://github.com/NishatSultana3538/UFOs/blob/main/static/js/app.js) , [data.js](https://github.com/NishatSultana3538/UFOs/blob/main/static/js/data.js), one css file [style.css](https://github.com/NishatSultana3538/UFOs/blob/main/static/css/style.css) and html file [index.html](https://github.com/NishatSultana3538/UFOs/blob/main/index.html) I made the website to filter data for UFO sightings in different cities , shapes and time. The website link deployed in github is 
 
@@ -24,6 +26,9 @@ On ipad air
 
 
 The website has 5 filter options to filter the data ![filter_search](https://github.com/NishatSultana3538/UFOs/blob/main/static/images/filter_search.png) in where previous filter button ![filter_button](https://github.com/NishatSultana3538/UFOs/blob/main/static/images/filter_button.png) was removed.
+
+
+###  How to search in the UFO website :
 
 Using different filter criteria we can get data depending on which filter options we use. We can also use one search field or multiple search field combined to narrow down the result. Using different date only in the Enter date search filed we can get data of different dates UFO sightings. Here are UFO sightings data for different dates.
 
